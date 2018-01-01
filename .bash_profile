@@ -4,6 +4,8 @@ alias ll='ls -lahG'
 
 alias l='ls -lhG'
 
+alias la='ls -la'
+
 export PATH="/usr/local/mysql/bin:$PATH"
 
 # The next line updates PATH for the Google Cloud SDK.
