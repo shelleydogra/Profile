@@ -1,6 +1,8 @@
-
 [user]
-	email = shelleycdogra@lewisu.edu
 	name = Shelley Dogra
+	email = shelleycdogra@lewisu.edu
 [core]
+	editor = nano -wl1
 	excludesfile = /Users/sdogra/.gitignore_global
+[color]
+	ui = true
