@@ -1,0 +1,6 @@
+
+[user]
+	email = shelleycdogra@lewisu.edu
+	name = Shelley Dogra
+[core]
+	excludesfile = /Users/sdogra/.gitignore_global
