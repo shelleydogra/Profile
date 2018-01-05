@@ -1,4 +1,4 @@
-alias ll='ls -lahG'
+alias ll='ls -lthG'
 
 alias l='ls -lhG'
 
