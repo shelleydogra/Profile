@@ -1,6 +1,6 @@
 #export PS1="sdogra$ "
 
-#Read .bashrc
+#sdogra Read .bashrc
 source ~/.bashrc
 
 export PATH="/usr/local/mysql/bin:$PATH"
